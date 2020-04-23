@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tugasmodul4", "tugasmodul4\tugasmodul4.pyproj", "{CC9FDBF1-27E8-446E-961B-CE83D366344C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9FDBF1-27E8-446E-961B-CE83D366344C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9FDBF1-27E8-446E-961B-CE83D366344C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {916C4532-3397-4507-8CF3-6D3D8B04C34D}
+	EndGlobalSection
+EndGlobal
