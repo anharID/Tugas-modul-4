@@ -85,5 +85,5 @@ while ulang:
     print("Apakah anda ingin mengulang program? (Y/T)")
     ulang = input()
     print("\n")
-    if ulang == "t":
+    if ulang == "T":
         break
