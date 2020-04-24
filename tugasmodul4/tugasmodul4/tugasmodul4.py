@@ -1,3 +1,15 @@
+import percobaan2
+
+def perkenalan(nama1, nama2, kelompok):
+    print (f"ini adalah program yang dibut oleh {nama1} dan {nama2} dari kelompok {kelompok}")
+
+perkenalan("Anhar", "Rifki", 25)
+
+p1 = percobaan2.pemethod("Anhar", 21120119120012)
+p1.iden1()
+p2 = percobaan2.pemethod("Rifki Satriamas", 21120119130115)
+p2.iden2()
+
 def fharga (merk, size):
     if merk == "IMP":
         if size == "s":
